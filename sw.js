@@ -5,7 +5,7 @@ const INMUTABLE_CACHE = 'inmutable-v1'
 importScripts('js/sw-utils.js')
 
 const APP_SHELL = [
-    '/',
+    //'/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
